@@ -1,4 +1,4 @@
-To view Website->shivamcollegewebpage.netlify.app
+To view Website->  https://shivamcollegewebpage.netlify.app/
 
 # React + Vite
 
